@@ -1,7 +1,7 @@
 {
 	"name": "@social-manager-tools/fbbot",
 	"description": "Social Manager Tools: Facebook Bot API",
-	"version": "0.10.0-nightly.20190610",
+	"version": "0.10.0-nightly.20190810",
 	"main": "modules/core/lib.js",
 	"author": "Patryk Rzucidło [@ptkdev] <support@ptkdev.io> (https://ptk.dev)",
 	"license": "MIT",
